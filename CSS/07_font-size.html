@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ffont Size</title>
+    <style>
+        .first{
+            font-size: 16px;
+        }
+        .special{
+            font-size: 1.5em;
+        }
+        .special span{
+            font-size: 1.5em;
+            /* font-size: 1.5rem;   rem always take the value of root(body)*/
+        }
+    </style>
+</head>
+<body>
+    <p class="first">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, repellat.</p>
+    <p class="special">Lorem, ipsum dolor sit amet <span>Hello World</span>  elit. Tenetur, totam.</p>
+</body>
+</html>

@@ -1,0 +1,14 @@
+Selector
+=============
+
+Manipulation
+=============
+style  (css("propertyName","Value"),({propertyName1:"Value",propertyName2:"Value"}))
+class   (addClass(),removeClass(),toggleClass())
+$(tagName).attr('propertyName','value')
+Event
+=============
+
+Effect
+=========
+$("").show(),hide(),toggle

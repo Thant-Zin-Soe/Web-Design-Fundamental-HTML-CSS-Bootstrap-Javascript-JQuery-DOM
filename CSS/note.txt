@@ -1,0 +1,21 @@
+CSS
+==========
+1.Selectors
+2.Properties
+
+Selectors
+==========
+1.Elements Selectors
+2.Class Selectors
+3.ID Selectors
+4.Descendant Selectors
+5.Child Selectors
+6.Attribute Selectors
+
+Properties
+============
+1.color
+2.backgrounds
+3.paddinf,margin,border (box model)
+4.display (inline,block,inline-block,none)
+5.background image

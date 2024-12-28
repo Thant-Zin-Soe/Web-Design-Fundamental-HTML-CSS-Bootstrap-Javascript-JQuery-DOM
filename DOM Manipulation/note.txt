@@ -1,0 +1,26 @@
+DOM manipulation with Vanilla JavaScript (Plain JavaScript)
+===================
+
+selectors
+===========
+1.var element= document.getElementsByTagName();
+2.var element= document.getElementsByClassName();
+3.var element= document.getElementsById();
+4.var element= document.quertSelectorAll(# .);
+
+
+
+Manipulation
+============
+1.element.innerText="Hello";
+2.element.stylre.<cssProperty>color="red";
+3.document.getElementById();
+4.document.classList.add();
+5.document.classList.toogle();
+
+
+Events
+============
+1.click
+2.keypress,keyup,keydown
+3.mouseover,mouseout
